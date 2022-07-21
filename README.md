@@ -1,7 +1,7 @@
 ## <div align="center">About Me</div>  
   
 
-- 🔭 I’m currently working on [ROAR](roar.berkeley.edu)
+- 🔭 I’m currently working on [ROAR](https://roar.berkeley.edu)
   
 
 - 🌱 I’m currently thinking about possibly pursuing the notion of learning something along the lines of C
