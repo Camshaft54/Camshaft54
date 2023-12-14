@@ -1,13 +1,13 @@
 ## <div align="center">About Me</div>  
   
 
-- 🔭 I’m currently working on [ROAR](https://roar.berkeley.edu)
+- 🔭 I’m currently working on [Advent of Code](https://adventofcode.com/)
   
 
-- 🌱 I’m currently thinking about possibly pursuing the notion of learning something along the lines of C
+- 🌱 I’m currently thinking about [AI & Semiconductors](https://spectrum.ieee.org/how-will-ai-change-semiconductors)
   
 
-- ⚡ Fun fact: I use spaces *by pressing the tab key*  
+- ⚡ Fun fact: I use spaces *by pressing the tab key*
   
 
 <br/>  
