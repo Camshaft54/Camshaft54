@@ -1,24 +1,18 @@
 ## <div align="center">About Me</div>  
   
 
-- 🔭 I’m currently working on [Advent of Code](https://adventofcode.com/)
+- 🔭 I’m currently working on Battery Management System [HIL](https://en.wikipedia.org/wiki/Hardware-in-the-loop_simulation) simulation at [Penn Electric Racing](https://www.pennelectricracing.com/about-us)
   
 
 - 🌱 I’m currently thinking about [AI & Semiconductors](https://spectrum.ieee.org/how-will-ai-change-semiconductors)
   
 
-- ⚡ Fun fact: I use spaces *by pressing the tab key*
-  
-
 <br/>  
 
-
+<!--
 ## <div align="center">My Skill Set</div>   
-<table><tr><td valign="top" width="33%">
-
-
-
-### Learned/Used
+<table><tr><td valign="top" width="100%">
+### Skills
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -42,45 +36,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/f/ff/OCaml_Logo.svg" alt="OCaml" height="50" />
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Learning  
-<div align="center">  
-  
-</div>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-</td><td valign="top" width="33%">
-
-
-
-### Want to Learn  
-<div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
 </div>
-
-</td></tr></table>  
-
-<br/>  
-
+</td></tr></table>
+-->
 
 ## <div align="center">Github Stats</div>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camshaft54&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Camshaft54&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
