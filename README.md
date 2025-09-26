@@ -1,12 +1,4 @@
 ## <div align="center">About Me</div>  
-  
-
-- 🔭 I’m currently working on Battery Management System [HIL](https://en.wikipedia.org/wiki/Hardware-in-the-loop_simulation) simulation at [Penn Electric Racing](https://www.pennelectricracing.com/about-us)
-  
-
-- 🌱 I’m currently thinking about [AI & Semiconductors](https://spectrum.ieee.org/how-will-ai-change-semiconductors)
-  
-
 <br/>  
 
 <!--
